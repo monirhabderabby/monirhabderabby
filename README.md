@@ -1,8 +1,12 @@
 ### Hi there 👋, I am Monir Hossain
 #### Web Developer
-![Web Developer](https://media-exp1.licdn.com/dms/image/C5616AQEQcit2zhexbw/profile-displaybackgroundimage-shrink_350_1400/0/1640489823116?e=1667433600&v=beta&t=N3YrStlwew-5RRHHWhZx69X3WkwxfH6BnnA6vN-ad8I)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+Crafting digital experiences with code. Passionate web developer with 1+ years of
+experience, always looking to learn and grow. Bridging the gap between design and
+development. Crafting digital experiences that are intuitive and user-friendly. Always
+learning, always growing.
+
+Now I am learning Back-End development and looking forward to being a Full Stack Developer.
 
 Skills: REACT / JS / Redux / HTML / CSS / NODEJS / MongoDB / ExpressJS 
 
