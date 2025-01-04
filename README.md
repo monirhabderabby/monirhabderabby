@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Prisma**
 
-- 👨‍💻 All of my projects are available at [www.monirhrabby.com](www.monirhrabby.com)
+- 👨‍💻 All of my projects are available at [https://monirhrabby.info](https://monirhrabby.info)
 
 - 💬 Ask me about **MERN, Web Application**
 
